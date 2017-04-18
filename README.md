@@ -1,7 +1,7 @@
 Linux-dash on busybox container
 ===
 
-*NOTE:* This is a heavily modified fork of [busydash](https://github.com/galal-hussein/busydash).
+**NOTE:** This is a heavily modified fork of [busydash](https://github.com/galal-hussein/busydash).
 
 Usage:
 ```
